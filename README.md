@@ -13,8 +13,7 @@
 Je suis un **développeur curieux, rigoureux et passionné** par les nouvelles technologies.  
 Mon objectif : concevoir des applications modernes, performantes et centrées sur l’expérience utilisateur.
 
-- 🔭 Actuellement **Stagiaire Développeur chez DCOLSAY** à Cotonou (Bénin)  
-- 💡 En apprentissage continu sur **Angular** et la **Data Science**  
+- 💡 En apprentissage continu sur **Flutter** et la **Data Science**  
 - 🤝 Ouvert à la collaboration sur des projets innovants et open-source  
 - 📧 Me contacter : **k.francoisadesu@gmail.com**  
 - ⚡ Fun fact : j’adore le football, la musique et les challenges de code !
